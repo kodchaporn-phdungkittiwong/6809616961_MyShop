@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+.Header{
+    height: auto;
+    width: 100%;
+}
+img{
+    height: auto;
+    width: 100%;
+}
+body{
+    font-family:Figtree ;
+    background-image: url(resources/backg2.png);
+    background-size: 40cm;
+}
+h2{
+    text-align: center;
+    font-size: 20pt;
+    margin: 30px 0px 5px 0px;
+}
+.t{
+    border-radius: 25px;
+    border: 2px solid #1073a1;
+    width: 13cm;
+}
+.p1{
+    text-align: center;
+    font-size: 12pt;
+    margin: 0 px
+    ;
+}
+li{
+    text-align: left;
+}
+p{
+    font-size: auto ;
+}
+table{
+    background-color: rgb(227, 253, 253);
+    margin: 10px;
+}
+tr:hover{
+  background-color: rgb(196, 216, 241);
+
+}
+.footer {
+  background-color: #c2fdff;
+  text-align: center;
+  padding: 10px;
+}
+.image-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.image-container img {
+    width: 100px;
+    height: auto;
+    border-radius: 20px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.rotated-video{
+    height: 400px ;
+    width: auto;
+}
